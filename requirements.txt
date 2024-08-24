@@ -1,5 +1,5 @@
 tensorflow
-pandas
+pandas 
 dvc
 notebook
 numpy
@@ -15,4 +15,3 @@ scipy
 Flask
 Flask-Cors
 -e .
-
