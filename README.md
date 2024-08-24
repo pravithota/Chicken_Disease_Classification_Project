@@ -25,7 +25,7 @@ https://github.com/pravithota/Chicken_Disease_Classification_Project/
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cnncls python=3.10 -y
+conda create -n cnncls python=3.8 -y
 ```
 
 ```bash
@@ -125,7 +125,7 @@ open up you local host and port
 
     AWS_SECRET_ACCESS_KEY=
 
-    AWS_REGION = 
+    AWS_REGION = us-east-1
 
     AWS_ECR_LOGIN_URI = demo>>  
 
