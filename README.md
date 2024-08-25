@@ -1,4 +1,4 @@
-# Chicken-Disease-Classification--Project (Deep Learning)
+# Chicken_Disease_Classification_Project (Deep Learning)
 
 
 ## Workflows
